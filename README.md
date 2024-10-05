@@ -1,4 +1,3 @@
-# -
-外星人入侵
-print("hello world!")
-I don't know how to use this website.
+# git 和 github 的联合配置测试
+建仓库
+
